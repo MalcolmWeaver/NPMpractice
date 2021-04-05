@@ -1,0 +1,11 @@
+{
+  "name": "package1",
+  "version": "1.0.0",
+  "description": "testing_NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "author": "",
+  "license": "ISC"
+}
